@@ -26,15 +26,20 @@ locations.
 
 ## Tools & Technologies
 The following tools were used to platform the analysis
+
 **Microsoft Excel**
+
 - Data Cleaning
 - Data Transformation
 - Pivot Tables & Charts
+  
 **Power BI**
+  
 - Data Modelling
 - Dax Measures
 - Interactive Dashboard Creation
 - Data Visualization
+  
 **Microsoft Word**
 - Project Documentation
 
