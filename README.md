@@ -80,7 +80,7 @@ Based on the analysis, the following recommendations are suggested:
 
 ## How to use
 This project can be explored using the following files:
-- Cleaned Dataset (Excel File) – Contains the processed dataset used for analysis.
-- Power BI Dashboard (PDF Export) – Displays the visual analysis and insights.
+- **Cleaned Dataset (Excel File)** – Contains the processed dataset used for analysis.
+- **Power BI Dashboard (PDF Export)** – Displays the visual analysis and insights.
 - Project Report – Provides detailed explanation of the analysis process and findings.
 - Users can interact with the Power BI dashboard to explore solar capacity, cost variations, and investment opportunities.
