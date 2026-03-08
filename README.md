@@ -59,11 +59,11 @@ Several exploratory analyses were performed to understand the data patterns and 
 Power BI visualizations such as bar charts, column charts, scatter plots, KPI cards, and tables were used to explore these questions.
 
 ## Key Insights
-• The average solar resource across the analyzed states is 3.51 kWh/m²/day, indicating moderate solar energy potential.
-• Washington and Montana show higher installed capacity and lower energy cost compared to other states.
-• Maine has the highest total energy cost, mainly due to high transmission and grid reinforcement expenses.
-• Transmission distance and infrastructure significantly influence the overall energy cost of solar projects.
-• Regions with lower transmission cost and stable solar resource offer better investment opportunities for solar development.
+- The average solar resource across the analyzed states is 3.51 kWh/m²/day, indicating moderate solar energy potential
+- Washington and Montana show higher installed capacity and lower energy cost compared to other states
+- Maine has the highest total energy cost, mainly due to high transmission and grid reinforcement expenses
+- Transmission distance and infrastructure significantly influence the overall energy cost of solar projects
+- Regions with lower transmission cost and stable solar resource offer better investment opportunities for solar development
 
 ## Recommendations:
 Based on the analysis, the following recommendations are suggested:
